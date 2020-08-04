@@ -1,2 +1,2 @@
-# Lern-Vue-JS
+# Learn-Vue-JS
 Study Vue.js
